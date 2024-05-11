@@ -15,7 +15,7 @@ Check out
 
 [Project Report]()
 
-[Survey Report]()
+[Survey Paper](Report/Audio_DeepFake_Detection_Survey_Paper_.pdf)
 ## SetUp Dataset
 Synthetic Voice Dataset: WaveFake (v1.20)
 The dataset consists of 104,885 generated audio clips (16-bit PCM wav)
