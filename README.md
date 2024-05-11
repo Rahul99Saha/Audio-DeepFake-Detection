@@ -13,7 +13,7 @@ Supervised By: -[Anupam Mondal]()
 ## About Project
 Check out
 
-[Project Report]()
+[Project Report](https://github.com/Rahul99Saha/Audio-DeepFake-Detection/blob/main/Report/Report(Innovative%20Project).docx)
 
 [Survey Paper](Report/Audio_DeepFake_Detection_Survey_Paper_.pdf)
 ## SetUp Dataset
