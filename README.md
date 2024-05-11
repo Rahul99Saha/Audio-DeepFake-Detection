@@ -1,4 +1,3 @@
-
 # Audio Deepfake Detection
 This project focuses on building a deepfake detection system for audio, utilizing advanced feature extraction techniques to discern between authentic and manipulated audio samples, addressing concerns surrounding the spread of synthetic media and safeguarding the integrity of audio content.
 
@@ -43,10 +42,4 @@ mfcc
 
 ## Support
 
-For support, email fake@fake.com or join our Slack channel.
-
-
-## Screenshots
-
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
-
+For Contact, email rahul.rs99.saha@gmail.com or senguptadeep03@gmail.com 
