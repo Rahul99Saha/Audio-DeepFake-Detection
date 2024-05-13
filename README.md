@@ -22,7 +22,7 @@ The dataset consists of 104,885 generated audio clips (16-bit PCM wav)
 ## Feature Extraction
 chroma_stft
 
-rms
+rms(root mean square)
 
 spectral_centroid
 
