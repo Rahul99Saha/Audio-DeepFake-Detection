@@ -7,7 +7,7 @@ This project focuses on building a deepfake detection system for audio, utilizin
 
 - [Rahul Saha](https://github.com/Rahul99Saha)
 - [Deep Sengupta]()
-Supervised By: -[Anupam Mondal]()
+Supervised By: -[Anupam Mondal]()(Mentor)
 
 
 ## About Project
